@@ -21,7 +21,6 @@ PRODUCT_PACKAGES := \
     AccountAndSyncSettings \
     DeskClock \
     AlarmProvider \
-    Bluetooth \
     Calculator \
     Calendar \
     CertInstaller \
