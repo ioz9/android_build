@@ -8,3 +8,6 @@ Using U.S. date format...
 
 ###02/22/2012:
 * Removed bluetooth from less_generic.mk
+
+###02/28/2012:
+* Synced with CyanogenMod source: Fix build date info against locales (see [commit diff](https://github.com/CyanogenMod/android_build/commit/79f9818d282743c98b3859d38b196d5a3cd14203))
